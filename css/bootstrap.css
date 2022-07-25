@@ -1430,14 +1430,19 @@ img {
     vertical-align: middle
 }
 
+.img-responsive {
+    width: 270px;
+    height: 270px;
+    display: block;
+}
+
 .carousel-inner>.item>a>img,
 .carousel-inner>.item>img,
-.img-responsive,
 .thumbnail a>img,
 .thumbnail>img {
     display: block;
-    max-width: 100%;
-    height: auto
+    width: 100%;
+    height: auto;
 }
 
 .img-rounded {
