@@ -57,7 +57,6 @@ a:hover {
 .bg-center,
 .bg-l-edge,
 .bg-r-edge,
-.bg-t-edge,
 .bg-b-edge,
 .bg-tl-edge,
 .bg-bl-edge,
@@ -69,10 +68,6 @@ a:hover {
 
 .bg-repeat {
     background: repeat;
-}
-
-.bg-t-edge {
-    background: top no-repeat;
 }
 
 .bloc-bg-texture::before {
@@ -756,10 +751,6 @@ h4 {
 
 .bgc-white {
     background-color: #FFFFFF;
-}
-
-.bgc-dark-slate-blue {
-    background-color: #364577;
 }
 
 .bgc-atomic-tangerine {
