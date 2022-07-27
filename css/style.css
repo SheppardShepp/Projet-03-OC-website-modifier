@@ -66,6 +66,12 @@ a:hover {
     background-size: auto!important;
 }
 
+.image-resize-mode{
+    width: 50%;
+    min-width: 100px;
+    max-width: 150px;
+}
+
 .bg-repeat {
     background: repeat;
 }
