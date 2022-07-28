@@ -256,6 +256,10 @@ a:hover {
     width: 70%;
     margin: 0 50% 0 50%;
 }
+.size-text p{
+    font-size: 20px;
+    padding: 0 50px 0 50px;
+}
 #bloc-8 h2{
     font-size: 13px;
     margin-bottom: 20px;
@@ -670,7 +674,7 @@ a {
 }
 
 p {
-    font-size: 16px;
+    font-size: 17px;
 }
 
 .tight-width-whitespace {
@@ -746,7 +750,7 @@ h4 {
 }
 
 .black-background {
-    background-color: rgb(88 74 55 / 36%);
+    background-color: rgb(88 74 55 / 74%);
     padding: 40px 40px 40px 40px;
 }
 
