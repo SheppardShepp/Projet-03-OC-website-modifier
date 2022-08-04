@@ -4,6 +4,9 @@ body {
     background: #FFF;
     overflow-x: hidden;
 }
+html:focus {
+    outline: 2px solid black;
+}
 #bloc-5-cta p{
     font-size: 20px;
     font-weight: bold;
@@ -11,7 +14,6 @@ body {
 a,
 button {
     transition: all .3s ease-in-out;
-    outline: none!important;
 }
 
 a:hover {
@@ -459,9 +461,7 @@ nav .caret {
     background: rgba(0, 0, 0, .3);
 }
 
-button {
-    outline: none!important;
-}
+
 
 .btn-rd {
     border-radius: 40px;
