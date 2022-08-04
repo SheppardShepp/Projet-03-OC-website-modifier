@@ -4,17 +4,10 @@ body {
     background: #FFF;
     overflow-x: hidden;
 }
-html:focus {
-    outline: 2px solid black;
-}
 #bloc-5-cta p{
     font-size: 20px;
     font-weight: bold;
-}
-a,
-button {
-    transition: all .3s ease-in-out;
-}
+}   
 
 a:hover {
     text-decoration: none;
