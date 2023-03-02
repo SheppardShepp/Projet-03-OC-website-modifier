@@ -6,7 +6,8 @@
 
 - [Présentation du projet](#présentation)
 - [Aperçu du projet](#projet)
-- [Spécification du projet](#specification)
+- [Les amélioration du projet](#amelioration)
+- [Les modifications faite au projet](#modification)
 
 ## 💭 Petit mot de présentation <a name = "présentation"></a>
 
@@ -45,22 +46,35 @@ Objectif : Optimisez un site web existant.
 
 Utilisation : <img height="30" src="https://i31.servimg.com/u/f31/13/52/99/79/logo_h11.png">
 
-Lien du site apres amélioration : [Rendu du Site aprés modification de "La Panthere"](https://sheppardshepp.github.io/Starting-website-2-ameliore/)
+Lien du site après amélioration : [Rendu du Site aprés modification de "La Panthere"](https://sheppardshepp.github.io/Starting-website-2-ameliore/)
 
 Aperçu :
 
-<div align="center"><img height="300" src="https://i31.servimg.com/u/f31/13/52/99/79/lapant10.png"> <img height="300" src="https://i31.servimg.com/u/f31/13/52/99/79/lapant10.jpg">
+<div align="center"><img height="300" src="https://i31.servimg.com/u/f31/13/52/99/79/lapant10.png"> <img height="300" src="https://i31.servimg.com/u/f31/13/52/99/79/lapant10.jpg"><div>
 
 ---
 
-## :gear: Les axes d'amélioration du projet <a name = "specification"></a>
+## :gear: Les amélioration du projet <a name = "amelioration"></a>
 
-- Axe d'amélioration :
+Les modifications apporter :
 
-  - Pour le SEO :
-    - définir l'attribut "lang" sur "fr"
-    - définir les attributs "title" des pages
-    - mauvaise utilisation des balise "meta"
-    - annuaire
+- passage de l'attribut "lang" sur "fr".
+- j'ai définis les attributs "title" des pages.
+- j'ai optimisé les balises "meta".
+- suppression des liens non fonctionnel et/ou sans rapport avec l'activité du site.
+- optimisation du footer selon les pages et les plateformes utilisé.
+- Sémantique HTML revue et corrigé.
+- suppression des ligne de codage contenant du black hat.
+- remplacement des textes en format image par des textes.
+- ajout de description sur les images.
+- modification des contrastes et taille des textes.
+- optimisation du format, et poid des images.
+- suppression des erreurs au validateur W3C sur les fichier HTML ET CSS
 
-- Modification effectuer :
+## :gear: Les modifications faite au projet <a name = "modification"></a>
+
+Pour voir les modifications effectuer, rendez-vous sur les liens suivant :
+
+Lien du rapport d'optimisation : [Rapport d'optimisation](https://drive.google.com/file/d/1nsx-KxDRQk3YTt3E-iGQbsbZXRxyjidV/view?usp=sharing)
+
+Lien vers le site après l'amélioration : [Rendu du Site après modification de "La Panthere"](https://sheppardshepp.github.io/Starting-website-2-ameliore/)
