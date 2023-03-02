@@ -50,7 +50,7 @@ Lien du site après amélioration : [Rendu du Site aprés modification de "La Pa
 
 Aperçu :
 
-<div align="center"><img height="300" src="https://i31.servimg.com/u/f31/13/52/99/79/lapant10.png"> <img height="300" src="https://i31.servimg.com/u/f31/13/52/99/79/lapant10.jpg"><div>
+<div align="center"><img height="300" src="https://i31.servimg.com/u/f31/13/52/99/79/lapant10.png"> <img height="300" src="https://i31.servimg.com/u/f31/13/52/99/79/lapant10.jpg"></div>
 
 ---
 
