@@ -40,7 +40,7 @@ Lien du site : [Rendu du Site d'origine de "La Panthere"](https://sheppardshepp.
 
 ## ⛏️ Aperçu du projet aprés modification <a name = "projet"></a>
 
-#### [La Panthère](https://sheppardshepp.github.io/Projet-03-OC-website-modifier/) <a name = "lapanthere"></a> : Agence de web design.
+#### [La Panthère](https://sheppardshepp.github.io/Starting-website-2-ameliore/) <a name = "lapanthere"></a> : Agence de web design.
 
 Objectif : Optimisez un site web existant.
 
